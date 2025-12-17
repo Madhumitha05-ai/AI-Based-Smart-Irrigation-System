@@ -1,0 +1,6 @@
+Soil_Moisture,Temperature,Humidity,Rainfall,Crop_Stage,Water_Required
+30,35,40,0,1,20
+45,30,50,5,2,10
+25,38,35,0,1,25
+60,28,70,10,3,5
+40,32,45,2,2,12
